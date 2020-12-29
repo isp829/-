@@ -19,6 +19,7 @@
 ------------------------------ 
 ![005](https://github.com/isp829/-/blob/main/image/lecture4-2/005.jpg)
 ![006](https://github.com/isp829/-/blob/main/image/lecture4-2/006.jpg)
+* 소켓에 넣은다음 써멀구리스를 잘 펴서 발라준다.  
 * cpu 소켓에 낀다음 덮게를 덮어주고 걸쇠를 걸어준다.  
 ------------------------------ 
 ![007](https://github.com/isp829/-/blob/main/image/lecture4-2/007.jpg)
