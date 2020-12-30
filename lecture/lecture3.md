@@ -1,6 +1,6 @@
 사용 용도, 주머니 사정, 사용자의 특수 요구사항을 고려해야한다.
 =======================
-![001](https://github.com/isp829/-/blob/main/image/lecture3/001.PNG) 
+![001](https://github.com/isp829/-/blob/main/image/lecture3/001.PNG)    
 ![002](https://github.com/isp829/-/blob/main/image/lecture3/002.PNG) 
 * 견적을 짤때 첫번째 요소로 이 컴퓨터로 뭘 하려는지 생각해야 한다. 
 * 만약 본인이 적당히 웹서핑하고 유튜브 보면서 롤 풀옵 100프레임을 뽑는게 목적이라면 생각보다 저렴하게 맞출 수 있다.  
