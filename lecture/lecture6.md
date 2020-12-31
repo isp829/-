@@ -28,11 +28,11 @@ https://www.microsoft.com/ko-kr/software-download/windows10
 ![008](https://github.com/isp829/-/blob/main/image/lecture6/008.PNG)  
 * 기다려 준다.   
 ------------------------------------   
-![009](https://github.com/isp829/-/blob/main/image/lecture6/006.PNG)  
+![009](https://github.com/isp829/-/blob/main/image/lecture6/009.PNG)  
 * 닫기 눌러주면 끝이다.  
 ------------------------------------   
 
 [목차로](https://github.com/isp829/-/blob/master/README.md)  
-[다음](https://github.com/isp829/-/blob/master/lecture/lecture7.md)  
+[다음](https://github.com/isp829/-/blob/master/lecture/lecture6-1.md)  
 -----------------------------
     
