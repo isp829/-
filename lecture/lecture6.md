@@ -33,6 +33,6 @@ https://www.microsoft.com/ko-kr/software-download/windows10
 ------------------------------------   
 
 [목차로](https://github.com/isp829/-/blob/master/README.md)  
-[다음](https://github.com/isp829/-/blob/master/lecture/lecture7.md)  
+[다음](https://github.com/isp829/-/blob/master/lecture/lecture6-1.md)  
 -----------------------------
     
