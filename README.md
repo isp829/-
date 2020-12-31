@@ -20,6 +20,7 @@
    
 6. 윈도우를 깔아보자
    * [윈도우 설치용 usb만들기](lecture/lecture6.md)  
+   * [윈도우 설치](lecture/lecture6-1.md)  
   
 7. 실행하고 드라이버들 깔기
    * [드라이버 설치](lecture/lecture7.md)
