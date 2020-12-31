@@ -25,8 +25,8 @@ https://www.microsoft.com/ko-kr/software-download/windows10
 ![007](https://github.com/isp829/-/blob/main/image/lecture6/007.png)  
 * 설치할 usb를 확인하고 다음 눌러주자.   
 ------------------------------------   
-![006](https://github.com/isp829/-/blob/main/image/lecture6/006.png)  
-* 우리는 usb로 만들꺼니까 usb선택해주자.  
+![008](https://github.com/isp829/-/blob/main/image/lecture6/008.PNG)  
+* 기다려 준다.   
 ------------------------------------   
 ![006](https://github.com/isp829/-/blob/main/image/lecture6/006.png)  
 * 우리는 usb로 만들꺼니까 usb선택해주자.  
