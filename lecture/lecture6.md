@@ -12,6 +12,13 @@ https://www.microsoft.com/ko-kr/software-download/windows10
 * 실행하고 좀기다리면 이런창이 뜬다.    
 * 동의 해주자.  
 ------------------------------------   
+![004](https://github.com/isp829/-/blob/main/image/lecture6/004.PNG)  
+* 다른 pc용 설치 누르고 다음 눌러주자.  
+------------------------------------   
+![005](https://github.com/isp829/-/blob/main/image/lecture6/005.PNG)  
+* 자기 PC에 맞는 설정을 해주자.
+* 요즘 나오는 컴들은 대부분 64비트 윈도우 10으로 하면된다.  
+------------------------------------   
 [목차로](https://github.com/isp829/-/blob/master/README.md)  
 [다음](https://github.com/isp829/-/blob/master/lecture/lecture7.md)  
 -----------------------------
