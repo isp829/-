@@ -28,8 +28,8 @@ https://www.microsoft.com/ko-kr/software-download/windows10
 ![008](https://github.com/isp829/-/blob/main/image/lecture6/008.PNG)  
 * 기다려 준다.   
 ------------------------------------   
-![006](https://github.com/isp829/-/blob/main/image/lecture6/006.png)  
-* 우리는 usb로 만들꺼니까 usb선택해주자.  
+![009](https://github.com/isp829/-/blob/main/image/lecture6/006.PNG)  
+* 닫기 눌러주면 끝이다.  
 ------------------------------------   
 
 [목차로](https://github.com/isp829/-/blob/master/README.md)  
