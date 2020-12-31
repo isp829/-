@@ -19,6 +19,9 @@ https://www.microsoft.com/ko-kr/software-download/windows10
 * 자기 PC에 맞는 설정을 해주자.
 * 요즘 나오는 컴들은 대부분 64비트 윈도우 10으로 하면된다.  
 ------------------------------------   
+![006](https://github.com/isp829/-/blob/main/image/lecture6/006.png)  
+* 우리는 usb로 만들꺼니까 usb선택해주자.  
+------------------------------------   
 [목차로](https://github.com/isp829/-/blob/master/README.md)  
 [다음](https://github.com/isp829/-/blob/master/lecture/lecture7.md)  
 -----------------------------
