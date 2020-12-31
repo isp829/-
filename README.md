@@ -26,4 +26,4 @@
    * [드라이버 설치](lecture/lecture7.md)
   
 8. 알아서 잘쓰자 
-   * [](lecture/lecture8.md)  
+   * [잘쓰자](lecture/lecture8.md)    
