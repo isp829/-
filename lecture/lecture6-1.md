@@ -1,37 +1,30 @@
 윈도우 설치하기
 =======================
-![001](https://github.com/isp829/-/blob/main/image/lecture6/001.PNG)  
-* 일단 윈도우를 깔 8기가 이상의 usb를 준비하자.  
-* 윈도우 부팅 usb는 포멧이 필요하므로 중요한 데이터는 백업해두자.  
+![001](https://github.com/isp829/-/blob/main/image/lecture6-1/001.jpg)  
+![002](https://github.com/isp829/-/blob/main/image/lecture6-1/002.jpg)  
+![003](https://github.com/isp829/-/blob/main/image/lecture6-1/003.jpg)  
+* 윈도우 설치용 usb를 윈도우 설치할 컴퓨터에 꼽아주고 실행한다음 boot설정으로 들어가서 usb를 1순위로 실행하게 한다.   
 ------------------------------------   
-![002](https://github.com/isp829/-/blob/main/image/lecture6/002.PNG)  
-https://www.microsoft.com/ko-kr/software-download/windows10
-* 링크로 들어가서 지금 도구 다운로드 클릭
+![004](https://github.com/isp829/-/blob/main/image/lecture6-1/004.jpg)  
+![005](https://github.com/isp829/-/blob/main/image/lecture6-1/005.jpg)  
+![006](https://github.com/isp829/-/blob/main/image/lecture6-1/006.jpg)  
+* 설치할 윈도우의 옵션들을 설정해주고 윈도우를 처음까는 것이므로 설치해주기 클릭.  
+------------------------------------  
+![007](https://github.com/isp829/-/blob/main/image/lecture6-1/007.jpg)  
+* 윈도우 키가 있으면 입력해주고 없으면 제품 키가 없음 클릭.  
 ------------------------------------   
-![003](https://github.com/isp829/-/blob/main/image/lecture6/003.PNG)  
-* 실행하고 좀기다리면 이런창이 뜬다.    
-* 동의 해주자.  
+![008](https://github.com/isp829/-/blob/main/image/lecture6-1/008.jpg)  
+* 설치할 운영 체제를 선택해준다.   
 ------------------------------------   
-![004](https://github.com/isp829/-/blob/main/image/lecture6/004.PNG)  
-* 다른 pc용 설치 누르고 다음 눌러주자.  
+![009](https://github.com/isp829/-/blob/main/image/lecture6-1/009jpg)  
+* 읽어보고 동의 해준다.  
 ------------------------------------   
-![005](https://github.com/isp829/-/blob/main/image/lecture6/005.png)  
-* 자기 PC에 맞는 설정을 해주자.
-* 요즘 나오는 컴들은 대부분 64비트 윈도우 10으로 하면된다.  
-------------------------------------   
-![006](https://github.com/isp829/-/blob/main/image/lecture6/006.png)  
-* 우리는 usb로 만들꺼니까 usb선택해주자.  
-------------------------------------   
-![007](https://github.com/isp829/-/blob/main/image/lecture6/007.png)  
-* 설치할 usb를 확인하고 다음 눌러주자.   
-------------------------------------   
-![008](https://github.com/isp829/-/blob/main/image/lecture6/008.PNG)  
-* 기다려 준다.   
-------------------------------------   
-![006](https://github.com/isp829/-/blob/main/image/lecture6/006.png)  
-* 우리는 usb로 만들꺼니까 usb선택해주자.  
+![010](https://github.com/isp829/-/blob/main/image/lecture6-1/010.jpg)
+* 읽어보고 동의 해준다.  
 ------------------------------------   
 
+
+------------------------------------   
 [목차로](https://github.com/isp829/-/blob/master/README.md)  
 [다음](https://github.com/isp829/-/blob/master/lecture/lecture7.md)  
 -----------------------------
